@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👑 FLASHBACK YT (SUMIT RAAJ)
+
+### 🎵 INDEPENDENT MUSIC ARTIST | PRODUCER | GAMER 🎮
+
+---
+
+## 🚀 ABOUT ME
+OFFICIALLY KNOWN AS **FLASHBACK YT**, I AM AN INDEPENDENT MUSIC ARTIST AND DIGITAL CREATOR BASED IN BIHAR, INDIA. I MANAGE MULTIMEDIA CONTENT CREATION, DIGITAL BRANDING, AND PROFESSIONAL AUDIO-VISUAL PORTFOLIOS.
+
+* 🎤 **OFFICIAL ARTIST CHANNEL:** VERIFIED CREATOR ON YOUTUBE.
+* 💿 **LATEST TRACK:** "I AM ANY FLASHBACK" DISTRIBUTED WORLDWIDE.
+* ⚡ **SPECIALIZATION:** MUSIC PRODUCTION & MOBILE VIDEO EDITING.
+
+---
+
+## 📊 YOUTUBE STREAMING STATS
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=flashbackyt&show_icons=true&theme=gotham" alt="FLASHBACK YT STATS" />
+</p>
+
+---
+
+## 🌐 OFFICIAL DIGITAL EMPIRE
+* 📺 [YOUTUBE CHANNEL](https://youtube.com/@FLASHBACKYT01)
+* 🎵 [SPOTIFY ARTIST PROFILE](https://open.spotify.com/artist/3xv00Zl03lozkeHASyxuij)
+* 📸 [INSTAGRAM PROFILE](https://www.instagram.com/flashback_yt001)
+* 🌐 [OFFICIAL WEBSITE](https://sites.google.com/view/sumit-raaj-official/home)
+* 
 
 <!--
 **flashbackyt/flashbackyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
