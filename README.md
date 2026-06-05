@@ -14,9 +14,11 @@ OFFICIALLY KNOWN AS **FLASHBACK YT**, I AM AN INDEPENDENT MUSIC ARTIST AND DIGIT
 ---
 
 ## 📊 YOUTUBE STREAMING STATS
+## 📊 DIGITAL CREATOR OVERVIEW
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flashbackyt&show_icons=true&theme=gotham" alt="FLASHBACK YT STATS" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flashbackyt&theme=gotham&hide_border=true" alt="FLASHBACK YT STREAK" />
 </p>
+
 
 ---
 
